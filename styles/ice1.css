@@ -1,0 +1,18 @@
+body{
+    width: 1000px;
+    background-color: rgb(255, 0, 200);
+}
+
+.maincontent{
+    width: 450px;
+    margin: 0 auto;
+    text-align: center;
+    padding: 30px;
+}
+h1:hover{
+    color: black;
+}
+h1, h3, p{
+    color: white;
+
+}
