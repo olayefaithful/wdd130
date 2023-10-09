@@ -1,7 +1,6 @@
 body{
             max-width: 1600px;
             margin: 0 auto;
-            text-align: center;
             background-color: antiquewhite;
         }
 header{
@@ -24,7 +23,7 @@ nav a:hover{
 }
 .book, .join{
     color: black;
-    text-decoration: none;
+    text-decoration: underline;
 }
 .book:hover, .join:hover{
     color: rgb(49, 49, 2);
@@ -57,10 +56,14 @@ main section{
 .icon{
     width: 80px;
 }
+.logo{
+    width: 80px;
+}
 footer p {
     font-size: 1.2em;
 }
 footer p a:hover{
     text-decoration: underline;
 } 
+
 
