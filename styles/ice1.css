@@ -1,3 +1,4 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300&family=Young+Serif&display=swap');
 body{
     width: 1000px;
     background-color: rgb(255, 0, 200);
@@ -11,8 +12,10 @@ body{
 }
 h1:hover{
     color: black;
+
 }
 h1, h3, p{
     color: white;
-
+    h1-font: Roboto;
+    p-font: "Young Serif"
 }

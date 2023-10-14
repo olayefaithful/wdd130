@@ -1,0 +1,21 @@
+body{
+    margin: 0;
+background-color: grey;
+    }
+    .top img{
+        width: 100%;
+    }
+    .bottom img{
+    width: 8%;
+    border-radius: 100px;
+    background-color: black;
+    padding: 2px;
+    display:flexbox;
+    justify-content: space-between;
+    margin: 3%;
+    }
+.bottom{
+    text-align: center;
+    margin: 0;
+}
+
